@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:776()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:776:1:1" ;
     skos:prefLabel "Tongatapu"@eng-Latn ;
-    wdata:q7200235 "TO1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -44,7 +42,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:776:1:2" ;
     skos:prefLabel "Vava'u"@eng-Latn ;
-    wdata:q7200235 "TO2" ;
 .
 
 <urn:mdciii:1603:16:776:1:3>
@@ -53,7 +50,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:776:1:3" ;
     skos:prefLabel "Ha'apai"@eng-Latn ;
-    wdata:q7200235 "TO3" ;
 .
 
 <urn:mdciii:1603:16:776:1:4>
@@ -62,7 +58,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:776:1:4" ;
     skos:prefLabel "'Eua"@eng-Latn ;
-    wdata:q7200235 "TO4" ;
 .
 
 <urn:mdciii:1603:16:776:1:5>
@@ -71,6 +66,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:776:1:5" ;
     skos:prefLabel "Niuas"@eng-Latn ;
-    wdata:q7200235 "TO5" ;
 .
 
